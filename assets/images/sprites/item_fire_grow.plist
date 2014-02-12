@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>item_fire_0000</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{318, 349}, {20, 20}}</string>
+			<key>spriteOffset</key>
+			<string>{-12, -19}</string>
+			<key>spriteSize</key>
+			<string>{20, 20}</string>
+			<key>spriteSourceSize</key>
+			<string>{680, 680}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{208, 740}, {20, 20}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>item_fire_0001</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{305, 337}, {45, 41}}</string>
+			<key>spriteOffset</key>
+			<string>{-12.5, -17.5}</string>
+			<key>spriteSize</key>
+			<string>{45, 41}</string>
+			<key>spriteSourceSize</key>
+			<string>{680, 680}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{156, 740}, {45, 41}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>item_fire_0002</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{300, 330}, {58, 50}}</string>
+			<key>spriteOffset</key>
+			<string>{-11, -15}</string>
+			<key>spriteSize</key>
+			<string>{58, 50}</string>
+			<key>spriteSourceSize</key>
+			<string>{680, 680}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{156, 684}, {58, 50}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>item_fire_0003</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{288, 315}, {90, 72}}</string>
+			<key>spriteOffset</key>
+			<string>{-7, -11}</string>
+			<key>spriteSize</key>
+			<string>{90, 72}</string>
+			<key>spriteSourceSize</key>
+			<string>{680, 680}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 788}, {90, 72}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>item_fire_0004</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{255, 295}, {152, 97}}</string>
+			<key>spriteOffset</key>
+			<string>{-9, -3.5}</string>
+			<key>spriteSize</key>
+			<string>{152, 97}</string>
+			<key>spriteSourceSize</key>
+			<string>{680, 680}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 684}, {152, 97}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>item_fire_0005</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{190, 258}, {278, 132}}</string>
+			<key>spriteOffset</key>
+			<string>{-11, 16}</string>
+			<key>spriteSize</key>
+			<string>{278, 132}</string>
+			<key>spriteSourceSize</key>
+			<string>{680, 680}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{236, 864}, {278, 132}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>item_fire_0006</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{155, 223}, {349, 174}}</string>
+			<key>spriteOffset</key>
+			<string>{-10.5, 30}</string>
+			<key>spriteSize</key>
+			<string>{349, 174}</string>
+			<key>spriteSourceSize</key>
+			<string>{680, 680}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{236, 684}, {349, 174}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>item_fire_0007</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{52, 209}, {586, 185}}</string>
+			<key>spriteOffset</key>
+			<string>{5, 38.5}</string>
+			<key>spriteSize</key>
+			<string>{586, 185}</string>
+			<key>spriteSourceSize</key>
+			<string>{680, 680}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{444, 0}, {185, 586}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>item_fire_0008</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 198}, {680, 205}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 39.5}</string>
+			<key>spriteSize</key>
+			<string>{680, 205}</string>
+			<key>spriteSourceSize</key>
+			<string>{680, 680}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{236, 0}, {205, 680}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>item_fire_0009</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 170}, {680, 231}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 54.5}</string>
+			<key>spriteSize</key>
+			<string>{680, 231}</string>
+			<key>spriteSourceSize</key>
+			<string>{680, 680}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 0}, {231, 680}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>GeneratedWith</key>
+		<string>SpriteHelper</string>
+		<key>format</key>
+		<integer>3</integer>
+	</dict>
+</dict>
+</plist>

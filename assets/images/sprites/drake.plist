@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>the_draken_icon_00000</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {263, 277}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{263, 277}</string>
+			<key>spriteSourceSize</key>
+			<string>{263, 277}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 0}, {263, 277}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>the_draken_icon_00001</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {263, 277}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{263, 277}</string>
+			<key>spriteSourceSize</key>
+			<string>{263, 277}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{268, 0}, {263, 277}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>the_draken_icon_00002</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {263, 277}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{263, 277}</string>
+			<key>spriteSourceSize</key>
+			<string>{263, 277}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{536, 0}, {263, 277}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>the_draken_icon_00003</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {263, 277}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{263, 277}</string>
+			<key>spriteSourceSize</key>
+			<string>{263, 277}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 284}, {263, 277}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>the_draken_icon_00004</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {263, 277}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{263, 277}</string>
+			<key>spriteSourceSize</key>
+			<string>{263, 277}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 564}, {263, 277}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>the_draken_icon_00005</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {263, 277}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{263, 277}</string>
+			<key>spriteSourceSize</key>
+			<string>{263, 277}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 844}, {263, 277}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>the_draken_icon_00006</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {263, 277}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{263, 277}</string>
+			<key>spriteSourceSize</key>
+			<string>{263, 277}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{268, 284}, {263, 277}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>the_draken_icon_00007</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {263, 277}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{263, 277}</string>
+			<key>spriteSourceSize</key>
+			<string>{263, 277}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{536, 284}, {263, 277}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>the_draken_icon_00008</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {263, 277}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{263, 277}</string>
+			<key>spriteSourceSize</key>
+			<string>{263, 277}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{268, 564}, {263, 277}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>the_draken_icon_00009</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {263, 277}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{263, 277}</string>
+			<key>spriteSourceSize</key>
+			<string>{263, 277}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{268, 844}, {263, 277}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>the_draken_icon_00010</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {263, 277}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{263, 277}</string>
+			<key>spriteSourceSize</key>
+			<string>{263, 277}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{536, 564}, {263, 277}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>the_draken_icon_00011</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {263, 277}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{263, 277}</string>
+			<key>spriteSourceSize</key>
+			<string>{263, 277}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{536, 844}, {263, 277}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>GeneratedWith</key>
+		<string>SpriteHelper</string>
+		<key>format</key>
+		<integer>3</integer>
+	</dict>
+</dict>
+</plist>
